@@ -1,3 +1,5 @@
 source ~/Documents/QDB/.venv/bin/activate
 
 # source ~/Documents/QDB/.venv/bin/activate # vm activate
+
+# venv/bin/activate # activates on PC
