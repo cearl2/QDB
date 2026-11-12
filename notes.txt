@@ -1,1 +1,3 @@
-source .venv_new/bin/activate
+source ~/Documents/QDB/.venv/bin/activate
+
+# source ~/Documents/QDB/.venv/bin/activate # vm activate
